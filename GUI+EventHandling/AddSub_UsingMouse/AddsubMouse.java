@@ -49,8 +49,8 @@ add(ba);
 	public static void main(String[] args) {
 	
 	new AddsubMouse();
-//Mouse click on SUM Result 
-	// Subtract on Mouse Release
+
 	
 }
 }
+ 

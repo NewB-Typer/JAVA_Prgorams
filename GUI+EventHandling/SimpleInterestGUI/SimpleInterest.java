@@ -43,3 +43,4 @@ setLayout(new FlowLayout());
 	new SimpleInterest();
 	}	
 }
+

@@ -96,3 +96,4 @@ public class StringOperations extends JFrame {
         new StringOperations();
     }
 }
+ 
